@@ -13,4 +13,4 @@
 - [x] collections
 - [x] strings
 - [x] quiz2
-- [ ] error_handling
+- [x] error_handling
