@@ -14,3 +14,6 @@
 - [x] strings
 - [x] quiz2
 - [x] error_handling
+- [x] generics
+- [x] Option
+- [x] traits
