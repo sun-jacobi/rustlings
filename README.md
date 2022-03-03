@@ -17,3 +17,4 @@
 - [x] generics
 - [x] Option
 - [x] traits
+- [ ] macro
