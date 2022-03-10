@@ -20,9 +20,10 @@
 - [x] test
 - [x] quiz3
 - [x] standard_library_types
-- [ ] macros
-- [ ] quiz4
-- [ ] clippy
+- [x] thread
+- [x] macros
+- [x] quiz4
+- [x] clippy
 - [ ] conversion
 - [ ] advanced_errors
 
