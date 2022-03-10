@@ -17,4 +17,13 @@
 - [x] generics
 - [x] Option
 - [x] traits
-- [ ] macro
+- [x] test
+- [x] quiz3
+- [x] standard_library_types
+- [ ] macros
+- [ ] quiz4
+- [ ] clippy
+- [ ] conversion
+- [ ] advanced_errors
+
+
