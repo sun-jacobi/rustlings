@@ -25,6 +25,8 @@
 - [x] quiz4
 - [x] clippy
 - [x] conversion
-- [ ] advanced_errors
+- [x] advanced_errors
+
+### 2021.3.13 - Completed
 
 
