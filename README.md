@@ -24,7 +24,7 @@
 - [x] macros
 - [x] quiz4
 - [x] clippy
-- [ ] conversion
+- [x] conversion
 - [ ] advanced_errors
 
 
